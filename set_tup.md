@@ -7,6 +7,6 @@ Create a Linux virtual machine. You can use a pre-made pentesting OS such as Kal
 
 Download your connection pack here.
 
-Run openvpn xcortez.ovpn in terminal.
+Run openvpn XYZ.ovpn in terminal.
 
 Have fun! Find IP addresses of attackable machines on the Active Machines page.
